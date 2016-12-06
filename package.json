@@ -1,0 +1,30 @@
+{
+  "name": "cssjson-cli",
+  "version": "1.0.0",
+  "description": "CLI for https://github.com/aramk/CSSJSON",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakedex/cssjson-cli.git"
+  },
+  "keywords": [
+    "cssjson",
+    "csstojson",
+    "css2json",
+    "jsontocss",
+    "json2css",
+    "cli"
+  ],
+  "author": "Jake Dexheimer <jakedex@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakedex/cssjson-cli/issues"
+  },
+  "homepage": "https://github.com/jakedex/cssjson-cli#readme",
+  "dependencies": {
+    "yargs": "^6.5.0"
+  },
+  "devDependencies": {
+  }
+}
