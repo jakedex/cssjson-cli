@@ -1,6 +1,6 @@
 {
   "name": "cssjson-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI utility for CSS<->JSON (https://github.com/aramk/CSSJSON)",
   "main": "index.js",
   "scripts": {},
