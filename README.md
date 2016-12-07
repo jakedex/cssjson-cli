@@ -1,7 +1,7 @@
 [![npm version](https://badge.fury.io/js/cssjson-cli.svg)](https://badge.fury.io/js/cssjson-cli)
 
 # cssjson-cli
-A CLI utility for [CSSJSON](https://github.com/aramk/CSSJSON). Converts the contents of a CSS file to JSON (or vice-versa).
+> A CLI utility for [CSSJSON](https://github.com/aramk/CSSJSON). Converts the contents of a CSS file to JSON (or vice-versa).
 
 ## Installation
 ```
@@ -13,9 +13,9 @@ $ npm install -g cssjson-cli
 ```
 $ cssjson input_file [--to-css] [--output|-o output_file]
 ```
-`cssjson` converts CSS to JSON. To convert JSON to CSS, use the `--to-css` flag.  
+By default, `cssjson` converts CSS to JSON. To convert JSON to CSS, use the `--to-css` flag.  
 
-By default, `cssjson` outputs to `stdout`. You can specify an output file with the `--output` flag:
+`cssjson` outputs to `stdout`. You can specify an output file with the `--output` flag:
 ```
 $ cssjson style.css --output style.js
 ```  
