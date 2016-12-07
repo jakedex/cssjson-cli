@@ -79,3 +79,6 @@ A target file to output the result to. If this flag isn't included, `cssjson` wi
 ### help
 ####`-h, --help`
 Show help
+
+## License
+[MIT}(https://github.com/jakedex/cssjson-cli/blob/master/LICENSE)
