@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/cssjson-cli.svg)](https://badge.fury.io/js/cssjson-cli)
+
 # cssjson-cli
 A CLI utility for [CSSJSON](https://github.com/aramk/CSSJSON). Converts the contents of a CSS file to JSON (or vice-versa).
 
