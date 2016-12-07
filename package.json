@@ -27,5 +27,7 @@
     "through2": "^2.0.3",
     "yargs": "^6.5.0"
   },
-  "devDependencies": {}
+  "bin": {
+    "cssjson": "index.js"
+  }
 }
