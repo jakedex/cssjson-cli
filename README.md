@@ -81,4 +81,4 @@ A target file to output the result to. If this flag isn't included, `cssjson` wi
 Show help
 
 ## License
-[MIT}(https://github.com/jakedex/cssjson-cli/blob/master/LICENSE)
+[MIT](https://github.com/jakedex/cssjson-cli/blob/master/LICENSE)
