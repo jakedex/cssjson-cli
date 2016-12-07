@@ -7,15 +7,16 @@ $ npm install -g cssjson-cli
 ```
 
 ## Usage
-`cssjson` converts css to JSON. To convert JSON to CSS, use the `--to-css` flag.
+
 ```
 $ cssjson input_file [--to-css] [--output|-o output_file]
 ```
+`cssjson` converts css to JSON. To convert JSON to CSS, use the `--to-css` flag.  
 
 By default, `cssjson` outputs to `stdout`. You can specify an output file with the `--output` flag:
 ```
 $ cssjson style.css --output style.js
-```
+```  
 
 It converts a file like this:
 
@@ -68,13 +69,13 @@ cssjson input.js --to-css -o output.css
 
 ## Options
 ### to-css
-`--to-css`
+####`--to-css`   
 Convert JSON -> CSS.
 
 ### output
-`-o, --output [output_file]`
+####`-o, --output [output_file]`   
 A target file to output the result to. If this flag isn't included, `cssjson` will output to `stdout`.
 
 ### help
-`-h, --help`
+####`-h, --help`
 Show help
